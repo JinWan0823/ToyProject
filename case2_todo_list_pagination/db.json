@@ -22,7 +22,7 @@
     },
     {
       "content": "테스트 5",
-      "completed": false,
+      "completed": true,
       "id": 5
     },
     {
@@ -37,7 +37,7 @@
     },
     {
       "content": "테스트 8",
-      "completed": false,
+      "completed": true,
       "id": 8
     },
     {
