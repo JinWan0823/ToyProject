@@ -107,11 +107,13 @@ section {
 }
 
 .contents.list {
-    display: flex;
+    display: none;
 }
-
-.contents .view figure{
-    flex: 0 0 50%;
+.contents.view{
+  display: flex;
+}
+.contents.view figure{
+    flex: 0 0 100%;
     margin: 0;
 }
 
